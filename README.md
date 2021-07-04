@@ -1,2 +1,4 @@
 # Agenda
 A complete agenda  in C.
+
+<System that simulates the functionality of an electronic diary, specifically, the program allows users to record an event, reminder, appointment, with specific date, start time, the user, a short description, and a flag to indicate that registration is important. The user will also have the possibility to add-modify-delete the recordings, to search the recordings by date, by range of dates, by type and by description, besides this it allows to view the statistics of the recordings made according to a statistic on the type of registration, and the priority of registration. In addition, the user has the ability to view them in order according to 3 criteria: by date, by type and by date and time. In addition, the program provides other additional functions such as the return to the main menu, which improve user interaction with the software.>
